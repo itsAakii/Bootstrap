@@ -1,0 +1,16 @@
+.header {
+height:120px;
+width:100%;
+background-color:lightblue;
+}
+
+.logo2 {
+float:right;
+}
+
+.footer {
+height:120px;
+width:100%;
+background-color:lightgreen;
+margin-top:490px;
+}
